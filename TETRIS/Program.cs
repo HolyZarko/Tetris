@@ -6,7 +6,7 @@ namespace TETRIS
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello TETRIS");
+            Console.WriteLine("TEST of CHANGE");
         }
     }
 }
